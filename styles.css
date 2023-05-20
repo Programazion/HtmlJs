@@ -1,0 +1,11 @@
+.mainContainer{
+    display: flex;
+    border-style: solid;
+    background-color: rgb(217, 217, 230);
+}
+.itemInformation{
+    flex: 1;
+    justify-content: center;
+    text-align: justify;
+    padding: 2px;
+}
