@@ -36,3 +36,8 @@ if(a=="abc"){
     var elementP = document.getElementsByTagName('p');
     elementP[1].innerHTML ="Este Texto fue editado por un condicional";   
 }*/
+
+var data ={ "description": "Mi descripción",
+        "address": "Calle Falsa", "date": 1,}
+
+console.log(data);
